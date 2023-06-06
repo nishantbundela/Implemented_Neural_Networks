@@ -6,4 +6,4 @@ The motivation is to gain a deeper understanding of the underlying principles an
 
 The key idea was to make a useful learning tool for others who may be interested in the same topics, as it can provide a more accessible and intuitive introduction to the concepts involved
 
-Read the documentation [here](https://ritvik19.github.io/implemented-data-science/](https://www.notion.so/pandoras-box/Implemented-Data-Science-c5ca05e155a84911b31e20677788e8a8?pvs=4)
+Read the documentation [here](https://www.notion.so/pandoras-box/Implemented-Data-Science-c5ca05e155a84911b31e20677788e8a8?pvs=4)
